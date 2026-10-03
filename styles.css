@@ -385,10 +385,12 @@
       background: linear-gradient(135deg, #0a1628, #0d2137, #1a3a5c);
     }
 
-    /*.project-thumb.bema {
-      background: linear-gradient(135deg, #1a0a2e, #2d1054, #6c3483);*/
-    .project-thumb.hotel {
-      background: linear-gradient(135deg, #0d1117, #1c2128, #21262d);
+    .project-thumb.bema {
+      background: linear-gradient(135deg, #1a0a2e, #2d1054, #6c3483);
+    }
+
+    .project-thumb.dash2 {
+      background: linear-gradient(135deg, #0a2e1a, #105430, #1a7a45);
     }
 
     .project-thumb-icon {
