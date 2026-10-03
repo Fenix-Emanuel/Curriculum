@@ -329,6 +329,7 @@
       box-shadow: 0 20px 60px rgba(232,115,74,0.12);
     }
 
+ HEAD
     .project-card.featured {
       border-color: rgba(232,115,74,0.45);
       box-shadow: 0 0 0 1px rgba(232,115,74,0.15), 0 8px 40px rgba(232,115,74,0.1);
@@ -371,6 +372,7 @@
       background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
     }
 
+ HEAD
     .project-thumb.fogon {
       background: linear-gradient(135deg, #3a1a0a, #6b2f0f, #c0392b);
     }
@@ -383,8 +385,10 @@
       background: linear-gradient(135deg, #0a1628, #0d2137, #1a3a5c);
     }
 
-    .project-thumb.bema {
-      background: linear-gradient(135deg, #1a0a2e, #2d1054, #6c3483);
+    /*.project-thumb.bema {
+      background: linear-gradient(135deg, #1a0a2e, #2d1054, #6c3483);*/
+    .project-thumb.hotel {
+      background: linear-gradient(135deg, #0d1117, #1c2128, #21262d);
     }
 
     .project-thumb-icon {
