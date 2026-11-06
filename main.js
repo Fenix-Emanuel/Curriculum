@@ -28,7 +28,7 @@
     pFogon: 'Del fuego a la mesa: un video que avanza con el scroll y platos que se arman solos, ingrediente por ingrediente.',
     pEvo: 'Cableado, fibra y seguridad explicados claro, con todo el contacto directo a WhatsApp.',
     pBalance: 'Un e-commerce de fitness: suplementos, cursos y marca en cuatro páginas pensadas para el celular.',
-    pFin: 'Una app de finanzas personales con login, ingresos y gastos, filtros y gráficos en vivo. Hecha desde cero.',
+    pFin: 'Una app de finanzas personales local-first: demo en vivo con seis meses de datos, flujo de caja y gráficos por categoría, presupuestos editables y exportar a CSV. EN/ES, claro y oscuro.',
     stackTitle: 'Herramientas con las que trabajo',
     expKicker: 'Dónde estuve', expTitle: 'Experiencia',
     jsWhen: 'Ene 2026 – Actualidad', jsRole: 'Desarrollador web', jsWhere: 'Strubbe Consultants · Remoto, Estados Unidos · Contrato', jsDesc: 'Puesto remoto por contrato, desarrollando sitios web para la empresa.',
