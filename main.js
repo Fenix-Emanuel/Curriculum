@@ -31,6 +31,7 @@
     pFin: 'Una app de finanzas personales con login, ingresos y gastos, filtros y gráficos en vivo. Hecha desde cero.',
     stackTitle: 'Herramientas con las que trabajo',
     expKicker: 'Dónde estuve', expTitle: 'Experiencia',
+    jsWhen: 'Ene 2026 – Actualidad', jsRole: 'Desarrollador web', jsWhere: 'Strubbe Consultants · Remoto, Estados Unidos · Contrato', jsDesc: 'Puesto remoto por contrato, desarrollando sitios web para la empresa.',
     j0when: '2026 – Actualidad', j0role: 'Fundador y desarrollador frontend', j0desc: 'Webs cinematográficas con animación al scroll para clientes de EE. UU. y Latinoamérica: concepto, visuales con IA, código y lanzamiento.',
     j1when: 'Dic 2024 – Actualidad', j1role: 'Agente de recepción', j1desc: 'Atención de huéspedes, manejo del PMS, check-in y check-out, coordinación entre áreas y capacitación de nuevos agentes en uno de los complejos de resort y convenciones más grandes de EE. UU.',
     j2when: 'Dic 2023 – Dic 2024', j2role: 'Supervisor de housekeeping', j2desc: 'Lideré la operación diaria de housekeeping, los horarios del equipo, el control de calidad y la incorporación de personal en un resort de gran escala.',
