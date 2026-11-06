@@ -26,7 +26,7 @@
     pIgnis: 'La web de mi estudio de webs cinematográficas: partículas de brasa, un proceso contado con el scroll y Brasa, un bot que manda los contactos directo a WhatsApp.',
     pHugos: 'Una cafetería argentina contada en una sola toma: video con IA que avanza cuadro a cuadro con el scroll y una carta que se abre en abanico.',
     pFogon: 'Del fuego a la mesa: un video que avanza con el scroll y platos que se arman solos, ingrediente por ingrediente.',
-    pEvo: 'Cableado, fibra y seguridad explicados claro, con todo el contacto directo a WhatsApp.',
+    pEvo: 'Sigue la señal: un pulso de luz recorre el cable por cada servicio, con productos delante de palabras gigantes y un bot que deriva a WhatsApp.',
     pBalance: 'Una marca deportiva premium en un solo scroll cinematográfico: entrenamiento, nutrición y suplementos, con el método en paneles horizontales y una tienda que completa el formulario de contacto.',
     pFin: 'Una app de finanzas personales local-first: demo en vivo con seis meses de datos, flujo de caja y gráficos por categoría, presupuestos editables y exportar a CSV. EN/ES, claro y oscuro.',
     stackTitle: 'Herramientas con las que trabajo',
