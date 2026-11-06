@@ -27,7 +27,7 @@
     pHugos: 'Una cafetería argentina contada en una sola toma: video con IA que avanza cuadro a cuadro con el scroll y una carta que se abre en abanico.',
     pFogon: 'Del fuego a la mesa: un video que avanza con el scroll y platos que se arman solos, ingrediente por ingrediente.',
     pEvo: 'Cableado, fibra y seguridad explicados claro, con todo el contacto directo a WhatsApp.',
-    pBalance: 'Un e-commerce de fitness: suplementos, cursos y marca en cuatro páginas pensadas para el celular.',
+    pBalance: 'Una marca deportiva premium en un solo scroll cinematográfico: entrenamiento, nutrición y suplementos, con el método en paneles horizontales y una tienda que completa el formulario de contacto.',
     pFin: 'Una app de finanzas personales local-first: demo en vivo con seis meses de datos, flujo de caja y gráficos por categoría, presupuestos editables y exportar a CSV. EN/ES, claro y oscuro.',
     stackTitle: 'Herramientas con las que trabajo',
     expKicker: 'Dónde estuve', expTitle: 'Experiencia',
